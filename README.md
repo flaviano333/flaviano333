@@ -1,4 +1,7 @@
-### Olá! Meu nome é Flávio de Oliveira 🖐️
+## Olá! Meu nome é Flávio de Oliveira <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="50px">
+### - Tenho 18 anos
+### - Sou formado como técnico em T.I
+### - Curso Design na Universidade de Brasília
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCGneQfm1GX9mVxLyYImezAQ)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/flaviano.333/)
 
@@ -6,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviano333&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Tecnologias que eu utilizo
+### Tecnologias que utilizo
 <hr>
 <div style="display: inline_block" >
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
