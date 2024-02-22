@@ -11,7 +11,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviano333&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Tecnologias que utilizo
+### Tecnologias que tenho conhecimento
 <hr>
 <div style="display: inline_block" >
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
