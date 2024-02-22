@@ -1,7 +1,9 @@
 ## Olá! Meu nome é Flávio de Oliveira <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="50px">
-### - Tenho 18 anos
-### - Sou formado como técnico em T.I
-### - Curso Design na Universidade de Brasília
+#### - Tenho 18 anos
+#### - Sou formado como técnico em T.I pela ETB (Escola Técnica de Brasília) 
+#### - Curso Design na Universidade de Brasília
+#### - Caso queira entrar em contato, envie um e-mail para: flaviosalao333@gmail.com
+
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCGneQfm1GX9mVxLyYImezAQ)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/flaviano.333/)
 
