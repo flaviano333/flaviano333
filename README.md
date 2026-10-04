@@ -2,6 +2,7 @@
 #### - Tenho 21 anos
 #### - Sou formado como técnico em T.I pela ETB (Escola Técnica de Brasília) 
 #### - Curso Design na Universidade de Brasília
+#### - 2 anos de experiência como designer do Ministério das Relações Exteriores
 #### - Caso queira entrar em contato, envie um e-mail para: flaviosalao333@gmail.com
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCGneQfm1GX9mVxLyYImezAQ)
